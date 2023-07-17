@@ -1,0 +1,53 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
+.box{
+    height: 200px;
+    width: 70%;
+    text-align: center;
+    padding: 10px 150px;
+}
+h1{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    width: 100%;
+    text-align: center;
+    text-align-last: center;
+
+}
+div{
+    text-align: center;
+    width: calc(33% - 280px);
+    float: left; /* none left right*/
+    margin: 10px 70px;
+    padding: 10px 70px; /* padding-top: 10px; padding-right: 70px; padding-bottom: 10px; padding-left:70 px*/
+    
+}
+.dbfree{
+    font-size: 30px;
+    background-color: #ffffff;
+    border: 5px solid   #a4d2ec;
+    color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+}
+.dbpro{
+    font-size: 30px;
+    background-color: #00a2ff;
+    border: 5px solid   #ffffff;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+h2{
+    font-size: 50px;
+}
+span{
+    color: silver;
+}

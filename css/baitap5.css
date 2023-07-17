@@ -1,0 +1,65 @@
+.block{
+    float: left;
+    width: 100%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.block-top h1{ /* cha con */
+    font-size: 60px;
+    color: #222222;
+    text-align: left;
+}
+.block-top{
+    background-color: rgb(182, 207, 207);
+}
+.block-top p{
+    font-size: 20px;
+    color: #222222;
+    text-align: left;
+    width: 100%;
+    margin: 0 auto;
+}
+.btn{
+    float: left;
+    width: 100%;
+    text-align: left;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.btn .btn-blue{
+    background-color: #007bff;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 15px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.block-bottom{
+    background-color: #fafafa;
+    padding-top: 40px;
+}
+.grid-container{
+    float: left;
+    width: 100%;
+    display: flex;
+}
+h1{
+    font-size: 25px;
+}
+.card{
+    display: block;
+    border-radius: 5px;
+    text-align: left;
+    padding: 30px 50px 30px 0px;
+}
+.btn-view{
+    background-color: #6b7886;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 8px 8px;
+    text-decoration: none;
+    border-radius: 5px;
+}
